@@ -1,0 +1,6 @@
+module Pods_AlgoliaiOSDemo_AlgoliaiOSDemoUITests {
+  umbrella header "Pods-AlgoliaiOSDemo-AlgoliaiOSDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
